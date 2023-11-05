@@ -15,6 +15,7 @@ Web application that exposes REST endpoints for:
 - PostgreSQL
 - OpenAPI
 - Flyway
+- Google API client
 
 
 
